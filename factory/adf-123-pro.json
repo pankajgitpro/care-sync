@@ -1,0 +1,15 @@
+{
+	"name": "adf-123-pro",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16f517e6-2b3e-42f1-86e8-91ace6b86414",
+		"tenantId": "9df59392-4279-4fc5-924e-ede14a4f9d2a"
+	}
+}
