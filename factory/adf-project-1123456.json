@@ -1,0 +1,15 @@
+{
+	"name": "adf-project-1123456",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b58d0bb-509a-42ca-8fab-75a3494631fb",
+		"tenantId": "f7cf55f2-a3d9-48bd-b895-dd8a37cd60e7"
+	}
+}
